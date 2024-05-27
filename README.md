@@ -1,4 +1,4 @@
-Проект выполнен на курсе "Специалист по Data Science" от [Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/). 
+Проект выполнен на курсе "Специалист по Data Science" от [Яндекс.Практикум](https://practicum.yandex.ru/data-scientist/)
 
 ### Проект 1: Исследование объявлений о продаже квартир
 
