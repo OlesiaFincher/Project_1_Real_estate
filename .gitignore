@@ -119,6 +119,3 @@ venv.bak/
 .csv
 .xlsx
 *.xlsx*
-
-# catboost
-catboost_info/
